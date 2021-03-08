@@ -1,6 +1,6 @@
 # MVCC Application Development
 
-Coming soon
+Below are the repositories created by Moraine Valley Community College.
 
 ## Templates
 
@@ -8,7 +8,7 @@ Coming soon
 * [Item 2]()
 * [Item 3]()
 * [Item 4]()
-* 
+
 ## APIs
 
 * [Item 1]()
