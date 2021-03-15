@@ -4,21 +4,19 @@ Below are the repositories created by Moraine Valley Community College.
 
 ## Templates
 
-* [GitHub Repo Template](https://github.com/mvccdev/github-repo-template/)
-* [Flex Site Template](https://github.com/mvccdev/flex-site-template/)
-* [Item 3]()
-* [Item 4]()
+* [template-github-repo]()
+* [template-flex-site]()
+* [template-empty-client-site]()
+* [template-empty-server-site]()
+* [template-private-client-site]()
+* [template-private-server-site]()
 
-## APIs
+## JSON
 
-* [Item 1]()
-* [Item 2]()
-* [Item 3]()
-* [Item 4]()
-* 
+* [json-geo]()
+* [json-org]()
+* [json-colleage]()
+
 ## Scripts
 
-* [Item 1]()
-* [Item 2]()
-* [Item 3]()
-* [Item 4]()
+* [scripts-college-photos]()
