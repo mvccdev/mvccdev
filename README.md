@@ -4,7 +4,7 @@ Below are the repositories created by Moraine Valley Community College.
 
 ## Templates
 
-* [Item 1]()
+* [Flex Site Template](https://github.com/mvccdev/flex-site-template/)
 * [Item 2]()
 * [Item 3]()
 * [Item 4]()
