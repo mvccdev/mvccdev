@@ -15,5 +15,5 @@ Below are the repositories created by Moraine Valley Community College. Note som
 ## Scripts
 
 * [Employee Photos](https://github.com/mvccdev/employee-photos-scripts) 
-* [MVConnect Seasonal Colors](https://github.com/mvccdev/mvconnect-seasonal-colors-scripts)
+* [MVConnect Semester Colors](https://github.com/mvccdev/mvconnect-semester-color-scripts)
 
