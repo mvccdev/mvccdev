@@ -6,7 +6,7 @@ Below are the repositories created by Moraine Valley Community College. Note som
 
 * [GitHub Repo](https://github.com/mvccdev/github-repo-template)
 * [Flex Site](https://github.com/mvccdev/flex-repo-template) 
-* [One Book One College Site](https://github.com/mvccdev/one-book-template) 
+* [One Book One College Site](https://github.com/mvccdev/one-book-site-template) 
 
 ## JSON
 
